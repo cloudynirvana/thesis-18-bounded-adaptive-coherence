@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you cite this computational research thesis, please use the metadata below. No DOI is minted here; do not invent one."
+type: thesis
+title: "Bounded Adaptive Coherence: a coupling-tensor λ_min criterion as a computational object for aging-versus-cancer failure modes"
+authors:
+  - family-names: Ogbonna
+    given-names: Kelechi Emeka
+    email: kelechiogbonna300@gmail.com
+    alias: cloudynirvana
+abstract: >-
+  Can the Principle of Bounded Adaptive Coherence — λ_min(C(t)) against
+  scale-wise entropy production — be stated as a falsifiable computational
+  object such that aging-like global coupling decay and cancer-like selective
+  organism-scale decoupling appear as distinct sectors of the same tensor,
+  without claiming clinical rejuvenation or cure? On a five-index toy, the
+  literal minimum eigenvalue of the raw coupling matrix moves the wrong way
+  as coupling strengthens. The object used instead is the minimum eigenvalue
+  of a grounded Laplacian of the symmetric weights, minus a declared proxy.
+  Global decay and an organism-index cut fall in different predeclared
+  classes. Uneven decay, diagonal-only decay, and a held matrix do not.
+  Not a medical device. No rejuvenation claim. No cure.
+keywords:
+  - bounded adaptive coherence
+  - coupling matrix
+  - grounded Laplacian
+  - algebraic connectivity
+  - aging
+  - cancer
+  - toy model
+  - spectral graph theory
+  - research-only
+license: MIT
+date-released: "2026-09-21"
+url: "https://github.com/cloudynirvana/thesis-18-bounded-adaptive-coherence"
+repository-code: "https://github.com/cloudynirvana/thesis-18-bounded-adaptive-coherence"
+preferred-citation:
+  type: thesis
+  title: "Bounded Adaptive Coherence: a coupling-tensor λ_min criterion as a computational object for aging-versus-cancer failure modes"
+  authors:
+    - family-names: Ogbonna
+      given-names: Kelechi Emeka
+  year: 2026
+  month: 9
+  url: "https://github.com/cloudynirvana/thesis-18-bounded-adaptive-coherence"
+  notes: "Thesis #18. Computational research. Toy coupling matrix, not a clinical result. No document DOI."
